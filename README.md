@@ -1,4 +1,4 @@
-<h1 align="center">Mehdi Mirawareh</h1>
+<h1 align="center">Hey, i'm Mehdi Mirawareh</h1>
 <h3 align="center">a machine learning with python from iran</h3>
 
 - 🔭 I’m currently working on [neural networks](https://github.com/mehdii190/neural-network)
@@ -30,8 +30,8 @@
   
   ###
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAliF&layout=compact)](https://github.com/iAliF/iAliF)
   
   ## snake eating my contribution graph
-  
   ![snake gif](https://github.com/mehdii190/mehdii190/blob/output/github-contribution-grid-snake.gif)
   
