@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehdi Mirawareh</h1>
+<h1 align="center">Mehdi Mirawareh</h1>
 <h3 align="center">A machine learning with python from iran</h3>
 
 - 🔭 I’m currently working on [neural networks](https://github.com/mehdii190/neural-network)
