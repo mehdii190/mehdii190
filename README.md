@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [neural networks](https://github.com/mehdii190/neural-network)
 
-- 💬 Ask me about **machine learning , deep learning**
+- 💬 Ask me about *machine learning , deep learning*
 
-- 📫 How to reach me **mehdi190gym@gmail.com**
+- 📫 How to reach me *mehdi190gym@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
