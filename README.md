@@ -1,5 +1,6 @@
 <h1 align="center">Hey, i'm Mehdi Mirawareh</h1>
-<h3 align="center">a machine learning with python from iran</h3>
+<p align="center">Machine Learning Engineer and Software Developer with a background in math and physics. Extensive experience creating ML applications in fields such as autonomous vehicles, video analytics, and manufacturing. Strong combination of theory, coding, and infrastructure knowledge. 
+</p>
 
 
   
