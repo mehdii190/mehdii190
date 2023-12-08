@@ -25,7 +25,6 @@
   ![snake gif](https://github.com/mehdii190/mehdii190/blob/output/github-contribution-grid-snake.gif)
   
 
-- 🔭 I’m currently working on [neural networks](https://github.com/mehdii190/neural-network)
 
 - 💬 Ask me about *machine learning , deep learning*
 
